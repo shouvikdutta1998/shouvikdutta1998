@@ -16,6 +16,7 @@ My expertise includes **Web Application Security, API Security, Mobile Security,
 
 Outside of work, I actively pursue continuous learning, security research, and knowledge sharing while exploring emerging areas such as AI Security and modern application protection.
 
+
 ### 🚀 Quick Snapshot
 
 - 🛡️ Senior Security Consultant
@@ -24,6 +25,7 @@ Outside of work, I actively pursue continuous learning, security research, and k
 - 🏆 Certifications: OSCP • CRTO • CEH
 - 🌱 Currently Exploring: Secure AI Applications & Cloud Red Teaming
 - 💬 Open to collaboration on security research and open-source projects
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -51,6 +53,7 @@ Outside of work, I actively pursue continuous learning, security research, and k
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ## 🎯 Core Competencies
 
 ### 🔐 Application Security
@@ -76,7 +79,8 @@ Outside of work, I actively pursue continuous learning, security research, and k
 - Vulnerability Validation
 - Risk Analysis
 - Remediation Recommendations
-  
+
+
 ## 🏆 Certifications
 
 | Certification | Issuing Organization | Year |
@@ -85,6 +89,7 @@ Outside of work, I actively pursue continuous learning, security research, and k
 | 🔴 Certified Red Team Operator (CRTO) | Zero-Point Security | 2024 |
 | ⚡ Certified Ethical Hacker (CEH v11) | EC-Council | 2021 |
 
+
 ## 💼 Professional Journey
 
 | Company | Role |
@@ -92,6 +97,7 @@ Outside of work, I actively pursue continuous learning, security research, and k
 | 🟦 Cyberops Infosec | Security Analyst |
 | 🟨 EY India | Security Consultant |
 | 🟧 PwC AC | Senior Security Consultant |
+
 
 ## 🛡️ Security Contributions
 
@@ -102,11 +108,13 @@ I actively contribute to the security community through responsible vulnerabilit
 | **CVE-2024-46531** | Phpgurukul Vehicle Record Management System v1.0 | SQL Injection | 2024 |
 | **CVE-2024-44798** | Phpgurukul Bus Pass Management System v1.0 | Cross-Site Scripting (XSS) | 2024 |
 
+
 ### 🌐 Personal Portfolio
 
 A modern portfolio showcasing my professional journey, certifications, technical expertise, and cybersecurity projects.
 
 🔗 **Repository:** *https://shouvikdutta1998.github.io/portfolio/*
+
 
 ## 🤝 Let's Connect
 
