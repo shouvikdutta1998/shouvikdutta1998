@@ -93,7 +93,14 @@ Outside of work, I actively pursue continuous learning, security research, and k
 | 🟨 EY India | Security Consultant |
 | 🟧 PwC AC | Senior Security Consultant |
 
-## 🚀 Featured Projects
+## 🛡️ Security Contributions
+
+I actively contribute to the security community through responsible vulnerability disclosure and coordinated security research. Below are some of my publicly assigned CVEs.
+
+| CVE | Product | Vulnerability | Year |
+| :-- | :------ | :------------ | :--: |
+| **CVE-2024-46531** | Phpgurukul Vehicle Record Management System v1.0 | SQL Injection | 2024 |
+| **CVE-2024-44798** | Phpgurukul Bus Pass Management System v1.0 | Cross-Site Scripting (XSS) | 2024 |
 
 ### 🌐 Personal Portfolio
 
