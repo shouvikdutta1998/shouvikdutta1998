@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Shouvik Dutta Banner" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
