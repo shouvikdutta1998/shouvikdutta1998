@@ -76,7 +76,7 @@ Outside of work, I actively pursue continuous learning, security research, and k
 - Vulnerability Validation
 - Risk Analysis
 - Remediation Recommendations
-- 
+  
 ## 🏆 Certifications
 
 | Certification | Issuing Organization | Year |
