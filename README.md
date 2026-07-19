@@ -51,7 +51,33 @@ Outside of work, I actively pursue continuous learning, security research, and k
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🏆 Certifications
+## � Core Competencies
+
+### 🔐 Application Security
+- Web Application Security
+- API Security
+- Mobile Application Security
+- Secure Code Review
+
+### ⚔️ Offensive Security
+- Web Application Penetration Testing
+- Network Penetration Testing
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Security Validation
+
+### 📋 Security Standards
+- OWASP Top 10
+- OWASP API Security Top 10
+- CWE
+- CVSS
+
+### 📝 Professional Services
+- Technical Security Reporting
+- Vulnerability Validation
+- Risk Analysis
+- Remediation Recommendations
+
+## �🏆 Certifications
 
 | Certification | Issuing Organization | Year |
 | :------------ | :------------------ | :--: |
