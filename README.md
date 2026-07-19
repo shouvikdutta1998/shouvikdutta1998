@@ -87,23 +87,20 @@ Outside of work, I actively pursue continuous learning, security research, and k
 | ⚡ Certified Ethical Hacker (CEH v11) | EC-Council | 2021 |
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 💼 Professional Journey
 
-🟦 Cyberops Infosec
-Security Consultant
+
+🟦 Cyberops Infosec | Security Analyst
 2020–2021
 
-⬇
+        ⬇
 
-🟨 EY India
-Senior Security Consultant
+🟨 EY India | Security Consultant
 2021–2025
 
-⬇
+        ⬇
 
-🟥 PwC AC
-Senior Application Security Consultant
+🟥 PwC AC | Senior Security Consultant
 2025–Present
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
