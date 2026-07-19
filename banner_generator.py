@@ -43,7 +43,7 @@ for x in range(88, 385, 14):
 # Bottom-left tagline
 for x in range(88, 1230, 24):
     draw.line((x, 362, x + 42, 362), fill=ACCENT, width=2)
-draw.text((88, 410), '@Warlockrootx', fill=WHITE, font=subtitle_font)
+draw.text((88, 410), 'Breaking Applications. Building Trust', fill=WHITE, font=subtitle_font)
 
 # Cyber illustration on the right
 cx, cy = 1110, 245
