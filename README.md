@@ -27,23 +27,29 @@ Outside of work, I actively pursue continuous learning, security research, and k
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,docker,postman,kali" />
-</p>
+### 🔐 Application Security
 
-### Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
+![HCL AppScan](https://img.shields.io/badge/HCL_AppScan-0066CC?style=for-the-badge)
+![Fortify SCA](https://img.shields.io/badge/Fortify_SCA-E60028?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-- Burp Suite Professional
-- Nessus
-- Nmap
-- Metasploit Framework
-- OWASP ZAP
-- SQLMap
-- Wireshark
-- Nikto
-- SonarQube
-- Fortify SCA
-- HCL AppScan
+### ⚔️ Offensive Security
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-8B0000?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-444444?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 💻 Platforms
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Hi there 👋
 
