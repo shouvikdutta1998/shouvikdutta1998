@@ -92,3 +92,29 @@ Outside of work, I actively pursue continuous learning, security research, and k
 | 🟦 Cyberops Infosec | Security Analyst |
 | 🟨 EY India | Security Consultant |
 | 🟧 PwC AC | Senior Security Consultant |
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+
+A modern portfolio showcasing my professional journey, certifications, technical expertise, and cybersecurity projects.
+
+🔗 **Repository:** *https://shouvikdutta1998.github.io/portfolio/*
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shouvik-dutta">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://shouvikdutta1998.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:duttashouvik07@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
