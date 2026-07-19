@@ -51,7 +51,7 @@ Outside of work, I actively pursue continuous learning, security research, and k
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## � Core Competencies
+## 🎯 Core Competencies
 
 ### 🔐 Application Security
 - Web Application Security
@@ -78,10 +78,31 @@ Outside of work, I actively pursue continuous learning, security research, and k
 - Remediation Recommendations
 ## 📊 GitHub Statistics
 
-## �🏆 Certifications
+## 🏆 Certifications
 
 | Certification | Issuing Organization | Year |
 | :------------ | :------------------ | :--: |
 | 🛡️ Offensive Security Certified Professional (OSCP) | Offensive Security | 2021 |
 | 🔴 Certified Red Team Operator (CRTO) | Zero-Point Security | 2024 |
 | ⚡ Certified Ethical Hacker (CEH v11) | EC-Council | 2021 |
+
+## 💼 Professional Journey
+
+```text
+┌──────────────────────────────────────────────┐
+│ Cyberops Infosec                            │
+│ Security Consultant                         │
+└──────────────────────────────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────────┐
+│ EY India                                    │
+│ Senior Security Consultant                  │
+└──────────────────────────────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────────┐
+│ PwC AC                                      │
+│ Senior Application Security Consultant      │
+└──────────────────────────────────────────────┘
+```
