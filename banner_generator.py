@@ -43,7 +43,7 @@ for x in range(88, 385, 14):
 # Bottom-left tagline
 for x in range(88, 1230, 24):
     draw.line((x, 362, x + 42, 362), fill=ACCENT, width=2)
-draw.text((88, 410), 'Breaking Applications. Building Trust.', fill=WHITE, font=subtitle_font)
+draw.text((88, 410), '@Warlockrootx', fill=WHITE, font=subtitle_font)
 
 # Cyber illustration on the right
 cx, cy = 1110, 245
@@ -63,8 +63,8 @@ prompt_box = (cx - 180, cy - 70, cx + 180, cy + 92)
 draw.rounded_rectangle(prompt_box, radius=14, outline=MID, width=2)
 draw.text((cx - 154, cy - 55), '>_', fill=ACCENT, font=subtitle_font)
 draw.text((cx - 112, cy - 55), 'root@warlockrootx:~$', fill=WHITE, font=small_font)
-draw.text((cx - 112, cy - 22), 'nmap --top-ports 20 target.local', fill=DIM, font=small_font)
-draw.text((cx - 112, cy + 10), 'security --validate --trust', fill=DIM, font=small_font)
+draw.text((cx - 112, cy - 22), 'nmap -sV target.local', fill=DIM, font=small_font)
+draw.text((cx - 112, cy + 10), 'security -validate -trust', fill=DIM, font=small_font)
 
 # Circuit lines and nodes
 circuit = [
