@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&lines=Senior%20Application%20Security%20Engineer;Application%20Security%20Specialist;OSCP%20%E2%80%A2%20CRTO%20%E2%80%A2%20CEH;Founder%20%40%20OffensiveEye;Breaking%20Applications.%20Building%20Trust." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&lines=Senior%20Security%20Engineer;OSCP%20%E2%80%A2%20CRTO%20%E2%80%A2%20CEH;Breaking%20Applications.%20Building%20Trust." alt="Typing SVG" />
   </a>
 </p>
 
