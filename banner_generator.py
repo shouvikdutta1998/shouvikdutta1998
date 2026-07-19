@@ -32,7 +32,7 @@ mini_font = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
 x0 = 88
 
 draw.text((x0, 80), 'Shouvik Dutta', fill=WHITE, font=name_font)
-draw.text((x0, 148), 'Senior Security Engineering', fill=WHITE, font=subtitle_font)
+draw.text((x0, 148), 'Senior Security Consultant', fill=WHITE, font=subtitle_font)
 draw.text((x0, 202), 'Application Security | Offensive Security', fill=DIM, font=small_font)
 draw.text((x0, 242), 'OSCP • CRTO • CEH', fill=ACCENT, font=small_font)
 
