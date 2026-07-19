@@ -89,6 +89,6 @@ Outside of work, I actively pursue continuous learning, security research, and k
 
 | Company | Role |
 |---------|------|
-| 🟦 Cyberops Infosec | Security Consultant |
-| 🟨 EY India | Senior Security Consultant |
-| 🟧 PwC AC | Senior Application Security Consultant |
+| 🟦 Cyberops Infosec | Security Analyst |
+| 🟨 EY India | Security Consultant |
+| 🟧 PwC AC | Senior Security Consultant |
