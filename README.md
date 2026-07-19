@@ -86,23 +86,24 @@ Outside of work, I actively pursue continuous learning, security research, and k
 | 🔴 Certified Red Team Operator (CRTO) | Zero-Point Security | 2024 |
 | ⚡ Certified Ethical Hacker (CEH v11) | EC-Council | 2021 |
 
-## 💼 Professional Journey
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```text
-┌──────────────────────────────────────────────┐
-│ Cyberops Infosec                            │
-│ Security Consultant                         │
-└──────────────────────────────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────────┐
-│ EY India                                    │
-│ Senior Security Consultant                  │
-└──────────────────────────────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────────┐
-│ PwC AC                                      │
-│ Senior Application Security Consultant      │
-└──────────────────────────────────────────────┘
-```
+💼 Professional Journey
+
+🟦 Cyberops Infosec
+Security Consultant
+2020–2021
+
+⬇
+
+🟨 EY India
+Senior Security Consultant
+2021–2025
+
+⬇
+
+🟥 PwC AC
+Senior Application Security Consultant
+2025–Present
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
