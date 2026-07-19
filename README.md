@@ -25,6 +25,26 @@ Outside of work, I actively pursue continuous learning, security research, and k
 - 🌱 Currently Exploring: Secure AI Applications & Cloud Red Teaming
 - 💬 Open to collaboration on security research and open-source projects
 
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,docker,postman,kali" />
+</p>
+
+### Security Tools
+
+- Burp Suite Professional
+- Nessus
+- Nmap
+- Metasploit Framework
+- OWASP ZAP
+- SQLMap
+- Wireshark
+- Nikto
+- SonarQube
+- Fortify SCA
+- HCL AppScan
+
 ## Hi there 👋
 
 <!--
