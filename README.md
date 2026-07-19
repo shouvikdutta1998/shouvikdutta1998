@@ -76,7 +76,21 @@ Outside of work, I actively pursue continuous learning, security research, and k
 - Vulnerability Validation
 - Risk Analysis
 - Remediation Recommendations
+## 📊 GitHub Statistics
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shouvikdutta1998&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouvikdutta1998&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shouvikdutta1998&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 ## �🏆 Certifications
 
 | Certification | Issuing Organization | Year |
